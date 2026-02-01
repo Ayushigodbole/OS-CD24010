@@ -1,6 +1,0 @@
-hello Ayushi 
-aa
-bb
-cc
-dd
-end
